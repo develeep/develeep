@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🐺 SNS list 🐺
 <a href="https://www.instagram.com/win.hlee/" target="_blank"><img src="https://img.shields.io/badge/My Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009788640297" target="_blank"><img src="https://img.shields.io/badge/My Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/dltmdgns0508@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail" target="_blank"><img src="https://img.shields.io/badge/dltmdgns0508@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 - 👓 Tech Stack 👓
 
 ![Develeep's github stats](https://github-readme-stats.vercel.app/api?username=develeep&show_icons=true)
