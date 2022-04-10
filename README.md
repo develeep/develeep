@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-### 🎈My status🎈
+## 🎈My status🎈
 <div align=center>
   
 [![Develeep's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=develeep&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/develeep)
