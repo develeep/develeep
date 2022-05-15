@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Develeep&fontSize=90&animation=fadeIn&fontAlignY=38&desc=https://github.com/develeep&descAlignY=62&descAlign=66)
 </div>
-<h2 align=center>😸 Develeep 😸</h2>
+
 <div align=center>
   <h3> 🐺 SNS list 🐺</h3>
 <a href="https://www.instagram.com/win.hlee/" target="_blank"><img src="https://img.shields.io/badge/My Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
