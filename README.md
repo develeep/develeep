@@ -6,7 +6,6 @@
 <div align=center>
   <h3> 🐺 SNS list 🐺</h3>
 <a href="https://www.instagram.com/win.hlee/" target="_blank"><img src="https://img.shields.io/badge/My Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
-<a href="https://www.facebook.com/profile.php?id=100009788640297" target="_blank"><img src="https://img.shields.io/badge/My Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp 
 <a href="https://mail.google.com/mail" target="_blank"><img src="https://img.shields.io/badge/dltmdgns0508@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
   
 </div>
