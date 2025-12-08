@@ -46,7 +46,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dltmdgns0508)](https://solved.ac/dltmdgns0508)
 <br>
-<img src="http://mazandi.herokuapp.com/api?handle=dltmdgns0508&theme=cold"/>
 
 </div>
 <!--
